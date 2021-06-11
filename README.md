@@ -29,18 +29,17 @@ Save Class
 Body
 ```JSON
 {
-	"name": "joão",
-	"avatar": "avatar",
-	"whatsapp": "45999999999",
-	"bio": "bio",
-	"subject": "Matemática",
-	"cost": 10,
-	"schedule": [ {
-			"week_day": 1,
-			"from": "08:00",
-		  "to": "10:00"
-		}
-	]
+  "name": "joão",
+  "avatar": "avatar",
+  "whatsapp": "45999999999",
+  "bio": "bio",
+  "subject": "Matemática",
+  "cost": 10,
+  "schedule": [{
+    "week_day": 1,
+    "from": "08:00",
+    "to": "10:00"
+  }]
 }
 
 ```
