@@ -3,6 +3,7 @@
 ## Get Started
 
 Before you begin, you will need to have the following tool installed on your machine [Git](https://git-scm.com). </br>
+NodeJs [NodeJs](https://nodejs.org/en/). </br>
 In addition to having an editor to work with the code like [VSCode](https://code.visualstudio.com/). </br>
 
 ```shell
